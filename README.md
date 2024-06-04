@@ -1,6 +1,6 @@
 # InteleQuant
-AI-Powered Customer Support Chatbot
-### Project Name: "InteleChat: AI-Powered Customer Support Chatbot"
+
+**Project Name: "InteleQuant: AI-Powered Financial Research Assistant"**
 
 ### README
 
