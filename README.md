@@ -4,7 +4,8 @@
 
 ### README
 
-Project Overview
+**Project Overview:**
+
 InteleQuant is an AI-powered assistant designed to support quantitative researchers and traders in hedge funds. Leveraging advanced LLMs and NLP, InteleQuant can provide insights, run financial models, perform data analysis, and support decision-making processes.
 
 **Key Features**
